@@ -1,0 +1,24 @@
+###In this session we going to learn very important topic of oop, that is method overloading, boolean method and 
+constructor overloading.
+
+
+
+problem 01: Name of the problem: Create a java class physics which will have the following members, distance and
+time (float types) and velocity, displacement, t1, v1, u1 and t2(double types). The constructor will print out 
+the following message “We are calculating the values of speed, velocity, and time “. It will have method called 
+motion which will use method overloading to calculate the values of speed, velocity and acceleration.
+
+problem 02: Name of the Problem: Create a java class bankaccount which will have the following members , 
+name(string type) , accountid(int type), accounttype(string type) , and balance (double type). 
+It will have a constructor to initialize the values. The class will have boolean method named compare which 
+will have an object as a parameter and it will check if the names, account ids, account types, and balances are same 
+in three bank accounts. It will print true if same names, ids, types and balances exist in the bank accounts, 
+otherwise it will print false.
+
+problem 03: Name of the program: Create a class named 'Rectangle' with two data members- length and breadth and
+a method to calculate the area, a method to calculate the perimeter, and a method to calculate the diagonal.
+The class has three constructors which are: 
+1 - having no parameter - values of both length and breadth are assigned zero. 
+2 - having two numbers as parameters - the two numbers are assigned as length and breadth respectively. 
+3 - having one number as parameter - both length and breadth are assigned that number. 
+Now, create objects of the 'Rectangle' class having none, one and two parameters and print their areas, perimeters, and diagonals. (Hint- Use constructor overloading)

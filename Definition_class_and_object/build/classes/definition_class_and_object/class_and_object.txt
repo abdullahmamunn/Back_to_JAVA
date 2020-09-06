@@ -1,0 +1,12 @@
+problem: Write a java program which will have a triangle class, and the triangle class will have two members.
+The program will compute the hypotenuse of two triangles by using Pythagorean Theorem. 
+[hints]:hypotenuse = Math.sqrt((a*a) + (b*b));
+
+First task: I have to create a class name 'triangle'
+Second task: The class has two members like(x,y), you have declare the members, simply you can understand member as a variable.
+Third task: Now you have to calculate hypotenuse of two triangles using this formula(hints)
+
+Fourth task: create main class and create object of Triangle class.
+
+Objective: Here we can see how i can create an class and call object. 
+ 
